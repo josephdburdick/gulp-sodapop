@@ -41,7 +41,7 @@
     "node": ">=0.10.0"
   },
   "private": true,
-  "description": "Front-end for Yale",
+  "description": "Delcious workflow",
   "main": "gulpfile.js",
   "directories": {
     "test": "test"
