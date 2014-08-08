@@ -8,8 +8,8 @@ Gulp Sodapop Front-end
 - Run gem install sass
 - Install Gulp globally by running `npm install -g gulp`
 - Clone this repo down and cd into it
-- Run 'npm -g install'
-- Run 'npm -g bower install'
+- Run 'npm install'
+- Don't have Bower installed? Run 'npm -g bower install'
 - Run 'npm -g install gulp'
 - Run 'bower install'
 - Run 'gulp watch' to render site locally or simply 'gulp' to build the project
